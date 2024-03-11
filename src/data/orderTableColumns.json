@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Order ID",
+    "dataIndex": "orderID",
+    "key": "orderID"
+  },
+  {
+    "title": "Order Status",
+    "dataIndex": "orderStatus",
+    "key": "orderStatus"
+  },
+  {
+    "title": "Customer Name",
+    "dataIndex": "customerName",
+    "key": "customerName"
+  },
+  {
+    "title": "Purchase Date",
+    "dataIndex": "purDate",
+    "key": "purDate"
+  },
+  {
+    "title": "Fulfill Date",
+    "dataIndex": "fulfillDate",
+    "key": "fulfillDate"
+  },
+
+  {
+    "title": "Invoice Status",
+    "dataIndex": "invoiceStatus",
+    "key": "invoiceStatus"
+  },
+  {
+    "title": "Amount",
+    "dataIndex": "amount",
+    "key": "amount"
+  }
+]
